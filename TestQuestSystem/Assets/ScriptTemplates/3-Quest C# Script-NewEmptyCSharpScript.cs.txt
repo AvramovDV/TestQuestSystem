@@ -1,0 +1,12 @@
+using UnityEngine;
+
+namespace Avramov.QuestSystem
+{
+    #ROOTNAMESPACEBEGIN#
+    public class #SCRIPTNAME#
+    {
+        #NOTRIM#
+    }
+#ROOTNAMESPACEEND#
+}
+

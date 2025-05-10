@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b870e2f32c673854cbac6ca2faa66f47, type: 3}
+  m_Name: DestroyAnyTargetQuestConfig
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 1
+  <Name>k__BackingField: Destroy any target
+  <Description>k__BackingField: "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442\u044C
+    10 \u043B\u044E\u0431\u044B\u0445 \u0446\u0435\u043B\u0435\u0439"
+  <TargetValue>k__BackingField: 10
+  <CurrentValue>k__BackingField: 0
+  _targetType: 0
